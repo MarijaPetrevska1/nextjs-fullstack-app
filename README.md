@@ -1,4 +1,4 @@
-# 🚀 Web Development Elective – Next.js Full-Stack App
+# 🚀 Web Development – Next.js Full-Stack App
 
 **"Full Stack Development with Next.js"** 
 
@@ -51,3 +51,4 @@ Next.js is currently the **most popular framework** for building **server-side r
 - **Vercel**  
 
 ---
+
