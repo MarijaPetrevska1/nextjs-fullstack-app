@@ -1,6 +1,6 @@
 # 🚀 Web Development – Next.js Full-Stack App
 
-** Building a **Full Stack Development with Next.js** – a **Twitter clone**, mimicking its core functionalities.
+Building a **Full Stack Development with Next.js** – a **Twitter clone**, mimicking its core functionalities.
 
 ---
 
@@ -49,6 +49,7 @@ Next.js is currently the **most popular framework** for building **server-side r
 - **Vercel**  
 
 ---
+
 
 
 
