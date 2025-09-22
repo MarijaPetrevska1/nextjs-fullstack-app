@@ -42,10 +42,7 @@ As Next JS is a React framework, it's also a good way to get familiar with React
 7. [NextAuth](https://next-auth.js.org/)
 8. [Vercel](https://vercel.com/)
 
-## Teaching team
 
-- Trainer: [Dimitar Spiroski](mailto:dimitarspiroski997@gmail.com)
-- Assistant: [Hristina Bozhinova](mailto:hristina.bozhinova93@gmail.com)
 =======
 # 🚀 Web Development – Next.js Full-Stack App
 
